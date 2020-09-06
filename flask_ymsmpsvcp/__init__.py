@@ -1,0 +1,1 @@
+from .flask_integration import YMSMPSCCP, bp
